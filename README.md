@@ -1,5 +1,4 @@
-# Исследование надёжности заёмщиков — анализ банковских данных 
-project-Yandex-Practicum "Аналитик данных" (Data analisys)
+# project-Yandex-Practicum "Аналитик данных" (Data analisys)
 
 
 
